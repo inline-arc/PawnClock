@@ -1,5 +1,7 @@
 # Auto detect text files and perform LF normalization
 *                 text=auto
+*.makefile linguist-detectable=false
+
 
 # Always perform LF normalization
 *.dart            text
