@@ -1,4 +1,3 @@
-# app
 # PawnClock
 Chess Clock App 
 
@@ -6,6 +5,11 @@ Chess Clock App
 <img src="https://user-images.githubusercontent.com/104635627/211494038-98f25a1e-a806-41ef-b96f-6e4ff877d28e.png" width="200" height="200" />
 
 A new Flutter project.
+## view
+
+<img src="https://user-images.githubusercontent.com/104635627/211896509-352fc4e7-b5c3-40af-b3e4-93902f8eea60.png" width="450" height="1000" />
+
+
 
 ## Getting Started
 
